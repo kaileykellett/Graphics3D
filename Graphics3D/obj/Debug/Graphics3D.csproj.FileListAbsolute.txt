@@ -1,0 +1,46 @@
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojAssemblyReference.cache
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Form1.resources
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.cache
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.CoreCompileInputs.cache
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+C:\Users\gtqyqs\Downloads\Graphics3D\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csprojAssemblyReference.cache
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Form1.resources
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.cache
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.CoreCompileInputs.cache
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+C:\Users\gtqyqs\Desktop\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Form1.resources
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+\\Mac\Home\Downloads\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe.config
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\bin\Debug\Graphics3D.exe
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\bin\Debug\Graphics3D.pdb
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Form1.resources
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Form1.resources
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.Properties.Resources.resources
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.exe
+\\Mac\Home\Downloads\high school projects\Graphics3D\Graphics3D\obj\Debug\Graphics3D.pdb
